@@ -3,7 +3,8 @@ ODE-L1-norm-minimization-Python
 
 This code script is implemented from the journal paper:
 
-A differential equations approach to l1-minimization with applications to array imaging., Moscoso et al.
+A differential equations approach to l1-minimization with applications to array imaging., Miguel Moscoso, Alexei Novikov, George Papanicolaou
+and Lenya Ryzhik, 2012, Inverse Problems
 
 doi:10.1088/0266-5611/28/10/105001
 
