@@ -1,4 +1,4 @@
-ODE-method-for-L1-norm-minimization-Python
+ODE-L1-norm-minimization-Python
 ==========================================
 
 This code script is implemented from the journal paper:
